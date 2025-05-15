@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: "Assets/Dise\xF1oDeVideojuegos/AssetsMisa/Escenas/BackGround.unity"
+    guid: b364c06903c69584d894eb203bd88026
+  - enabled: 1
+    path: "Assets/Dise\xF1oDeVideojuegos/AssetsMisa/Escenas/Casa.unity"
+    guid: 37683308e04d96b4487fe89037b68ca8
   m_configObjects: {}
